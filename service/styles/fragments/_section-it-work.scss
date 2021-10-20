@@ -1,0 +1,154 @@
+.section-how-work {
+  padding-top: 120px;
+  padding-bottom: 0;
+
+  @include responsive(tablet) {
+    padding-top: 50px;
+  }
+
+  @include responsive(phone) {
+    padding-top: 24px;
+  }
+
+  h2 {
+    color: $hopr_greySp;
+    font-size: 60px;
+    font-weight: 400;
+    margin: 0 0 120px 0;
+
+    @include responsive(tablet) {
+      margin-bottom: 50px;
+    }
+
+    @include responsive(phone) {
+      font-size: 30px;
+      font-style: normal;
+      font-weight: 400;
+      letter-spacing: 0.25px;
+      line-height: 32px;
+      margin-bottom: 24px;
+      text-align: center;
+    }
+  }
+}
+
+.info-box-line {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 0 0 80px 0;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &:nth-child(2) {
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      padding: 0 2rem 0 0;
+      box-sizing: border-box;
+      @include responsive(tablet) {
+        padding: 0;
+      }
+    }
+
+    .info-cont {
+      padding: 0 0 0 2rem;
+      @include responsive(tablet) {
+        padding: 0;
+      }
+    }
+  }
+
+  & > div {
+    line-height: 0;
+    margin-bottom: 0;
+    width: 50%;
+  }
+
+  @include responsive(tablet) {
+    flex-direction: column-reverse;
+    margin: 0 auto 50px auto;
+    width: 90%;
+
+    & > div {
+      width: 100%;
+    }
+  }
+
+  @include responsive(phone) {
+    width: 100%;
+  }
+
+  h3,
+  p {
+    padding: 0;
+    margin: 0;
+    color: $hopr_greySp;
+  }
+  h3 {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0.25px;
+    margin-bottom: 24px;
+
+    @include responsive(tablet) {
+      margin: 18px 0;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 24px;
+      letter-spacing: 0.20000000298023224px;
+    }
+
+    @include responsive(phone) {
+      margin-bottom: 18px;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 45px;
+      letter-spacing: 0.15000000596046448px;
+    }
+  }
+  p {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.15000000596046448px;
+    @include responsive(tablet) {
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 22px;
+      letter-spacing: 0.13333334028720856px;
+    }
+    @include responsive(phone) {
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 22px;
+      letter-spacing: 0.13333334028720856px;
+    }
+  }
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 0 0 0 2rem;
+    box-sizing: border-box;
+    @include responsive(tablet) {
+      padding: 0;
+    }
+  }
+}
+.flex-line {
+  flex-direction: row-reverse;
+
+  @include responsive(tablet) {
+    flex-direction: column-reverse;
+  }
+}

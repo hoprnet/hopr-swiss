@@ -1,0 +1,238 @@
+{
+  "headline": {
+    "title": "INVEST IN METADATA PRIVACY",
+    "beforeInfoTop": "Global data traffic is <strong>growing</strong> exponentially, and so are the security risks.",
+    "beforeInfoBottom": "HOPR provides essential and compliant network-level metadata privacy for everyone.",
+    "caption": "Hypothetical price progression (if no purchases are made)",
+    "mainInfo": "home_headline_mainInfo",
+    "titleTicket": "Balancer Launch",
+    "txtDownNum": "per HOPR token",
+    "fPoint": "home_headline_fPoint",
+    "sPoint": "home_headline_sPoint",
+    "tPoint": "home_headline_tPoint",
+    "tokenLeft": "home_headline_tokenLeft"
+  },
+  "back": {
+    "title": "BACKED BY",
+    "titleA": "PARTNERS",
+    "titleB": "AS SEEN IN"
+  },
+  "banner": {
+    "label": "Be the first to earn and stake HOPR tokens with our limited token release.",
+    "labelPreSales": "Be among the first who profit the most from staking our HOPR Token.",
+    "button": "Get HOPR",
+    "btnCommunity1": "COMMUNITY",
+    "btnCommunity2": "PRE-LAUNCH",
+    "btnPublic1": "PUBLIC",
+    "btnPublic2": "LAUNCH",
+    "disclaimer": "Disclaimer",
+    "stake": "How to stake HOPR"
+  },
+  "features": {
+    "pay": "Pay",
+    "payMain": "Spend HOPR tokens to send data through the HOPR network with complete data and metadata privacy.",
+    "stake": "Stake",
+    "stakeMain": "Lock HOPR tokens in your node to relay user data and cover traffic. The more you stake, the more data you can relay, and the more you can earn.",
+    "title": "TOKEN FEATURES",
+    "vote": "Vote",
+    "voteMain": "From technical parameters to the composition of the HOPR board of directors, participate in decentralized, community-enabling governance."
+  },
+  "further": {
+    "infoBottomATitle": "home_further_infoBottomATitle",
+    "infoBottomBTitle": "home_further_infoBottomBTitle",
+    "infoBottomCTitle": "home_further_infoBottomCTitle",
+    "infoBottomDTitle": "home_further_infoBottomDTitle",
+    "infoBottomETitle": "home_further_infoBottomETitle",
+    "infoTopTitleA": "home_further_infoTopTitleA",
+    "infoTopTitleAAbout": "home_further_infoTopTitleAAbout",
+    "infoTopTitleB": "home_further_infoTopTitleB",
+    "infoTopTitleBAbout": "home_further_infoTopTitleBAbout",
+    "title": "home_further_title"
+  },
+  "hardware": {
+    "about": "Anyone can run a HOPR node on their own hardware! We provide easy-to-install software for Linux, macOS, Windows, Docker and cloud environments. Start earning HOPR tokens within minutes.",
+    "caption": "We also sell a dedicated hardware node for faster staking.",
+    "subtitleA": "Run Your Own Metal",
+    "subtitleB": "Your HOPR Hardware Node",
+    "title": "RUN A HOPR NODE"
+  },
+  "graphic": {
+    "bounties": "Bounties",
+    "cover": "Cover Traffic",
+    "early": "home_graphic_early",
+    "pre": "Early Token Buyers",
+    "public": "Public Distribution",
+    "team": "Team & Advisors",
+    "treasury": "Treasury",
+    "votes": "home_graphic_votes",
+    "month": "Month {{nMonth}}"
+  },
+  "hero": {
+    "subtitle": "THE HOPR TOKEN LAUNCH BEGINS IN:",
+    "subtitlePre": "THE HOPR TOKEN LAUNCH ENDS IN:",
+    "title": "home_hero_title"
+  },
+  "slide": {
+    "slideA": "Sandro Cilurzo, Co-Founder & CEO of Sedimentum AG.",
+    "slideAMain": "HOPR has developed this groundbreaking open source technology to be used by privacy-aware developers all over the world, HOPR is integrated in our cutting edge privacy-preserving technology to save lives without compromising privacy.",
+    "slideB": "Beniamin Mincu, Elrond CEO",
+    "slideBMain": "The HOPR protocol offers a new standard for internet-scale performance, probabilistic security, and cryptographic pseudonymity. We’re happy to bridge the last mile to the Elrond network entry-points with HOPR, and offer a truly decentralized & private end-to-end experience for our users.",
+    "slideC": "Gin Chao, Binance Strategy Officer",
+    "slideCMain": "The team at HOPR has shown us how their decentralized network achieves privacy guarantees on the metadata level and gives power back to the people."
+  },
+  "token": {
+    "about": "The HOPR Network is powered by the HOPR Token, a utility token on the Ethereum Network.",
+    "listItemA": "Token Name: HOPR Token",
+    "listItemB": "Token Symbol: HOPR",
+    "listItemC": "Network: Ethereum",
+    "listItemD": "Standards: ERC20, ERC777",
+    "listItemE": "Total supply: 1BN HOPR",
+    "listItemF": "Initial circulating supply: 130M HOPR",
+    "secondSubAbout": "Starting at an initial circulating supply of 130 million, HOPR tokens will be released over a period of 4 years. A quarter of all HOPR tokens are available only to stakers as a reward for relaying cover traffic.",
+    "secondSubTitle": "Token Allocation",
+    "subTitle": "Key Metrics",
+    "thirdSubTitle": "Token supply distribution",
+    "title": "Token Release",
+    "textEnding": "home_token_textEnding",
+    "additionalInfo": "Additional information on ",
+    "tokenLaunch": "Tokens are released on the 27th of each month"
+  },
+  "why": {
+    "btnLabel": "home_why_btnLabel",
+    "labelDate": "home_why_labelDate",
+    "mainText": "home_why_mainText",
+    "title": "home_why_title"
+  },
+  "work": {
+    "performant": "Performant",
+    "performantMain": "HOPR’s custom layer-two scaling solution is based on probabilistic payment channels. This ensures fully decentralized settlement without unnecessary blockchain transaction fees, all while protecting node runners’ metadata.",
+    "private": "Private",
+    "privateMain": "The HOPR network is a decentralized incentivized mixnet, ensuring complete data and metadata privacy for everyone who uses it. Data is sent via multiple hops, so no-one but the sender and receiver know the origin, destination, or content of a data transfer.",
+    "profitable": "Profitable",
+    "profitableMain": "HOPR’s unique proof-of-relay mechanism means every node runner is incentivized to correctly relay data in exchange for HOPR tokens. Anyone can run a HOPR node to earn HOPR tokens and contribute to online data privacy.",
+    "title": "HOW IT WORKS"
+  },
+  "roadMap": {
+    "item1Date": "Nov 2019",
+    "item1Description": "HOPR’s founders develop a decentralized approach to the urgent issue of metadata privacy. HOPR is born!",
+    "item1Title": "Idea",
+    "item1L1": "Book",
+    "item1L2": "Technical White Paper",
+    "item2Date": "Apr 2020",
+    "item2Description": "HOPR officially launches, concluding a $1m seed funding round led by Binance. The HOPR Association is founded.",
+    "item2Title": "Funding and Launch",
+    "item2L1": "Binance",
+    "item3Date": "Jul 2020",
+    "item3Description": "The HOPR Node PC launches, allowing users to run a dedicated HOPR device from their home.",
+    "item3Title": "HOPR Hardware Node",
+    "item3L1": "Shop",
+    "item3L2": "gitHub",
+    "item4Date": "Nov 2020",
+    "item4Description": "A series of popular incentivized and gamified testnets grow the community and network to 2000 nodes.",
+    "item4Title": "Testing and Community",
+    "item4L1": "Matic",
+    "item4L2": "xDai",
+    "item4L3": "BSC",
+    "item5Date": "Q1 2021",
+    "item5Description": "The HOPR Jungfrau release is the first feature complete version of the HOPR node & HOPR token.",
+    "item5Title": "Jungfrau Release",
+    "item5L1": "SalePage",
+    "item6Date": "Q1 2022",
+    "item6Description": "HOPR’s Eiger release introduces cover traffic, making the protocol feature complete.",
+    "item6Title": "Eiger Release",
+    "item6L1": "Blogpost",
+    "item7Date": "Q2 2021",
+    "item7Description": "HOPR’s focus on decentralized community enabling governance is solidified by the launch of the project-wide HOPR DAO.",
+    "item7Title": "Launch HOPR DAO",
+    "item7L1": "DecenGov",
+    "item8Date": "Q2 2022",
+    "item8Description": "A robust API allows others to build metadata-private dApps and services on top of the HOPR protocol.",
+    "item8Title": "Ecosystem launch",
+    "item8L1": "Blogpost",
+    "item9Date": "Q3 2021",
+    "item9Description": "HOPR’s gamified staking program with NFT boost system.",
+    "item9Title": "Gamified Staking Program",
+    "item9L1": "Blogpost",
+    "item10Date": "Q4 2021",
+    "item10Description": "Launch of the first decentralized app to run on the HOPR network.",
+    "item10Title": "First dApp Launch on HOPR",
+    "item10L1": "Blogpost",
+    "title": "ROADMAP"
+  },
+  "modal": {
+    "about": "By clicking on this link, you will be redirected to a website provided by a third-party (Uniswap). HOPR (likewise any affiliated entity) has no control over the content, offerings (including offerings regarding HOPR tokens) or resources of the third-party website, and accepts no responsibility for the third-party website, the content, offerings or resources, or for any loss or damage that may arise from your use of the third party-party website, the content, offerings or resources. If you decide to access the third-party website, you do so entirely at your own risk and subject to the terms and conditions of use for the third-party website.",
+    "btnCancel": "Cancel",
+    "btnIAgree": "I Agree",
+    "public": "<paragraph>To be the first to know when the HOPR token launches and get other news about the project, subscribe to our <newsletter>Newsletter</newsletter>, or follow us on <twitter>Twitter</twitter> or <telegram>Telegram</telegram>.</paragraph>",
+    "title": "DISCLAIMER"
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "content": "<p> Your data, your decision. <br \/> <br \/> HOPR keeps any exchange of data private. <br \/> The <a href=\"\/technology#hopr-protocol\"><span class=\"text-color-high underline\">HOPR protocol<\/span><\/a> is a layer-0 privacy foundation for anyone to <a href=\"https:\/\/www.coindesk.com\/dont-hodl-buidl-blockchain-tech-will-add-value-2018\" target=\"_blank\" rel=\"noopener noreferrer\" ><span class=\"text-color-high underline\">build<\/span><\/a> on.<\/p><p> Standard end-to-end encryption does not provide sufficient privacy. <br \/> It leaks important metadata, such as who is exchanging data, when, and how often. Securing network-level privacy with HOPR unlocks a range of opportunities such as:<\/p>"
+  },
+  "connectDevices": {
+    "title": "Connect devices and clouds",
+    "content": "<ol><li>Exchange health data between <a href=\"https:\/\/www.sedimentum.com\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">hospitals and off-site computing centers<\/span><\/a>, compliant with data privacy regulations (GDPR, HIPAA, CCPA)<\/li><li>Connect IoT devices to the cloud without revealing the device\u2019s owner or location<\/li><li>Securely process data via <a href=\"https:\/\/www.media.mit.edu\/projects\/distributed-learning-and-collaborative-learning-1\/overview\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">split learning<\/span><\/a> for distributed machine learning<\/li><\/ol>"
+  },
+  "makeCrypto": {
+    "title": "Make crypto assets private",
+    "content": "<ol><li>Complement <a href=\"https:\/\/tornado.cash\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">on-chain privacy<\/span><\/a> with HOPR's network-level privacy for truly confidential transactions<\/li><li>Create trustless and privacy-first <a href=\"http:\/\/biconomy.io\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">layer-2 scaling solutions<\/span><\/a><\/li><li>Facilitate the exchange of <a href=\"https:\/\/openvasp.org\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">confidential financial data<\/span><\/a> between regulated institutions<\/li><\/ol>"
+  },
+  "digiWithout": {
+    "title": "Digitalization without privacy concerns",
+    "content": "<ol><li>Securely access private documents<\/li><li><a href=\"https:\/\/matrix.org\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">Chat in private<\/span><\/a>, so not even the provider knows who you\u2019re talking to<\/li><li><a href=\"https:\/\/www.sherpany.com\/en\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">Manage your organization<\/span><\/a> securely from anywhere, including your home office<\/li><\/ol>"
+  },
+  "welcome": {
+    "leftSection": "JUNGFRAU RELEASE",
+    "rightSection": "HOPR TOKEN",
+    "subTitle": "Whether it’s individuals, companies or institutions – the HOPR protocol provides full control over privacy, data and metadata. HOPR lays the groundwork for a more sovereign and safe internet. For everyone.",
+    "title": "Changing Data Privacy For Good"
+  },
+  "news": {
+    "coindesk": {
+      "about": "Binance Labs, the incubation and seed funding arm of the world’s largest crypto exchange, has made its first investment this year, backing decentralized privacy startup HOPR.",
+      "alt": "Coindesk"
+    },
+    "coinTelegraph": {
+      "about": "The privacy-focused network allows users to run HOPR nodes, stake and get rewards with HOPR tokens while providing privacy for Web 3.",
+      "alt": "Coin Telegraph"
+    },
+    "moneyToday": {
+      "about": "From award-winning blockchain hackers, Silicon Valley tech veterans and a bold vision that could become a reality in Switzerland.",
+      "alt": "Money Today"
+    },
+    "title": "In The News"
+  },
+  "hoperIs": {
+    "enablingData": {
+      "main": "We're building the HOPR network to give people and companies control over their level of data privacy.",
+      "title": "Enabling Data Privacy"
+    },
+    "openSource": {
+      "main": "The HOPR community fights for the digital privacy of the future. Everybody can become a part of our movement.",
+      "title": "Open Source Support"
+    },
+    "personal": {
+      "for": "Personal",
+      "main": "From testnet game sessions to reward bounties, join our <a href=\"https:\/\/t.me/hoprnet\" target=\"_blank\" rel=\"noopener noreferrer\" className=\"text-color-high underline\">Telegram</a> to become part of our growing community.<br />",
+      "title": "Hackathons + Community"
+    },
+    "professional": {
+      "for": "Professional",
+      "main": "HOPR is providing worry-free privacy to everyone. <a href=\"/partners\" target=\"_blank\" rel=\"noopener noreferrer\" className=\"text-color-high underline\">Reach out to us</a> if you and your customers deserve the best.",
+      "title": "Your company"
+    },
+    "title": "HOPR Is",
+    "titleBottom": "We Want You To Grow"
+  },
+  "blogs": {
+    "title": "HOPR Blogs"
+  },
+  "team": {
+    "paragraph": "<p> HOPR is a digital commons built by and for an open community that has no single owner or single point of failure. At the same time, delivery of complex software projects needs commitment and accountability. <br /> Therefore, the HOPR Association provided a first grant to the HOPR Services AG to develop and support a first version of the HOPR protocol in Typescript to bootstrap the ecosystem. </p>",
+    "title": "Team"
+  },
+  "contact": {
+    "getAll": "Get All Our Latest Updates!"
+  }
+}

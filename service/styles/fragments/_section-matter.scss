@@ -1,0 +1,69 @@
+.section-why-matters {
+  background: $hopr_yellow;
+  h2 {
+    font-size: 60px;
+    font-weight: 400;
+    color: $hopr_grey;
+    margin: 120px 0;
+    @include responsive(tablet) {
+      margin: 50px 0;
+    }
+    @include responsive(phone) {
+      margin: 24px 0;
+      font-size: 30px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 32px;
+      letter-spacing: 0.25px;
+      text-align: center;
+    }
+  }
+  p {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0.20000000298023224px;
+    color: $hopr_grey;
+    margin-top: 0;
+    @include responsive(tablet) {
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 33px;
+      letter-spacing: 0.1666666716337204px;
+    }
+    @include responsive(phone) {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 22px;
+      letter-spacing: 0.13333334028720856px;
+    }
+  }
+  .link-out {
+    font-size: 14px;
+    text-decoration: underline;
+  }
+  .flex-line-row {
+    display: flex;
+    & > div {
+      width: 50%;
+      overflow: hidden;
+      height: 100%;
+    }
+    img {
+      margin: auto;
+      object-fit: cover;
+      width: 80%;
+      height: 300px;
+      @include responsive(tablet) {
+        width: 100%;
+      }
+    }
+    @include responsive(tablet) {
+      flex-direction: column-reverse;
+      & > div {
+        width: 100%;
+      }
+    }
+  }
+}

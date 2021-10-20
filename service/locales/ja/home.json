@@ -1,0 +1,185 @@
+{
+  "headline": {
+    "title": "メタデータのプライバシーに投資する",
+    "beforeInfoTop": "世界中のデータ通信量は急成長していることに伴い、セキュリティの危機も増しています。その中、",
+    "beforeInfoBottom": "HOPRは極めて重要なメタデータの保護をみんなに提供します。",
+    "caption": "価格のリアルタイムチャート（購入されてない場合の仮設）",
+    "mainInfo": "home_headline_mainInfo",
+    "titleTicket": "Balancerを起動する",
+    "txtDownNum": "[価格]円",
+    "fPoint": "home_headline_fPoint",
+    "sPoint": "home_headline_sPoint",
+    "tPoint": "home_headline_tPoint",
+    "tokenLeft": "home_headline_tokenLeft"
+  },
+  "back": {
+    "title": "後援者",
+    "titleA": "パートナー",
+    "titleB": "口コミ"
+  },
+  "banner": {
+    "label": "HOPRトークンの限定リリースで、HOPRトークンを最初に獲得して賭けましょう。",
+    "labelPreSales": "Be among the first who profit the most from staking our HOPR Token.",
+    "button": "トークンをゲットする",
+    "btnCommunity1": "発売前の",
+    "btnCommunity2": "コミュニティ",
+    "btnPublic1":"一般",
+    "btnPublic2": "発売",
+    "disclaimer": "免責事項",
+    "stake": "ステーク方法"
+  },
+  "features": {
+    "pay": "払う",
+    "payMain": "HOPRトークンを使い、自分のデータを完全なる保護付きでHOPRのネットワークで通信します。",
+    "stake": "投資する",
+    "stakeMain": "自分のノードにHOPRトークンを保管し、他のユーザーのデータを中継します。ノードにHOPRトークンがあるほど、中継できるデータ量が増え、報酬も高くなります",
+    "title": "トークンの特徴",
+    "vote": "投票する",
+    "voteMain": "技術的なところからHOPRの理事会の構成まで、ユーザーの全員が分散型のコミュニティの一員になり、コミュニティ対応のガバナンスに参加できます。"
+  },
+  "further": {
+    "infoBottomATitle": "home_further_infoBottomATitle",
+    "infoBottomBTitle": "home_further_infoBottomBTitle",
+    "infoBottomCTitle": "home_further_infoBottomCTitle",
+    "infoBottomDTitle": "home_further_infoBottomDTitle",
+    "infoBottomETitle": "home_further_infoBottomETitle",
+    "infoTopTitleA": "home_further_infoTopTitleA",
+    "infoTopTitleAAbout": "home_further_infoTopTitleAAbout",
+    "infoTopTitleB": "home_further_infoTopTitleB",
+    "infoTopTitleBAbout": "home_further_infoTopTitleBAbout",
+    "title": "home_further_title"
+  },
+  "hardware": {
+    "about": "誰でも自分のハードウェアでHOPRノードを実行できます。Linux、macOS、Windows、Docker、クラウド環境など、簡単にインストールできるソフトウェアを提供しています。 わずか数分以内にHOPRトークンをゲットしよう！",
+    "caption": "もっと高速にステーキングができるように専用のハードウエア版のノードも販売しています。",
+    "subtitleA": "自分でHOPRノードを実行する",
+    "subtitleB": "HOPRハードウエアのノード",
+    "title": "ノードを実行する"
+  },
+  "graphic": {
+    "bounties": "バウンティ",
+    "cover": "通信の報酬",
+    "early": "home_graphic_early",
+    "pre": "早期購入者",
+    "public": "Public Distribution",
+    "team": "チームとアドバイザー",
+    "treasury": "財務部署",
+    "votes": "home_graphic_votes",
+    "month": "{{nMonth}}か月目"
+  },
+  "hero": {
+    "subtitle": "トークンの限定リリース開始まで：",
+    "subtitlePre": "HOPRトークンの限定リリース終了まで：",
+    "title": "home_hero_title"
+  },
+  "slide": {
+    "slideA": "Sandro Cilurzo様、SedimentumAGの共同創設者兼最高経営責任者（CEO）。",
+    "slideAMain": "「HOPRは、世界中のプライバシーを意識した開発者が使用するために、この革新的なオープン・ソース・テクノロジーを開発しました。HOPRは、プライバシーを損なうことなく命を救うために、最先端のプライバシー保護テクノロジーに統合されています。」",
+    "slideB": "Beniamin Mincu, Elrond社の最高経営責任者（CEO）",
+    "slideBMain": "「HOPRのプロトコルは、インターネット規模のパフォーマンス、確率的なセキュリティ、および暗号化された仮名性を、新しい標準として提供しています。ElrondネットワークのエントリポイントとつながるためにHOPRを使用することに決めています。そして、HOPRが提供する完全な分散化されたプライバシーを私達のユーザーに提供できることをうれしく思っています。」",
+    "slideC": "Gin Chao, Binance 戦略責任者",
+    "slideCMain": "「HOPRのチームは、分散型のネットワークでメタデータまでのプライバシーを保証し、人々に力を与えるようなツールを提供しています。」"
+  },
+  "token": {
+    "about": "HOPRネットワークは、イーサリアムネットワーク上のユーティリティトークンであるHOPRトークンを利用しています。",
+    "listItemA": "トークン名: HOPR Token",
+    "listItemB": "トークンシンボル: HOPR",
+    "listItemC": "ネットワーク: イーサリアム",
+    "listItemD": "規格: ERC20, ERC777",
+    "listItemE": "総数: 10億 HOPR",
+    "listItemF": "初期の供給量: 1億3000万 HOPR",
+    "secondSubAbout": "1億3000万の初期循環供給から始まり、HOPRトークンは5年間でリリースされます。 すべてのHOPRトークンの4分の1は、データを中継するための報酬としてユーザーのみに配布されます。",
+    "secondSubTitle": "トークンの割合",
+    "subTitle": "主要な指標",
+    "thirdSubTitle": "トークン供給の配布",
+    "title": "トークンのリリース",
+    "textEnding": "home_token_textEnding",
+    "additionalInfo": "Additional information on ",
+    "tokenLaunch": "トークンは毎月27日にリリースされます"
+  },
+  "why": {
+    "btnLabel": "home_why_btnLabel",
+    "labelDate": "home_why_labelDate",
+    "mainText": "home_why_mainText",
+    "title": "home_why_title"
+  },
+  "work": {
+    "performant": "高機能",
+    "performantMain": "HOPRの２重スケーリング・ソリューションが確率的な支払いのチャンネルに基づいています。 これにより、ノードの所有者のメタデータを保護しながら、不要なブロックチェーンの引取料金はないし、完全に分散化された決済が保証されます。",
+    "private": "プライベート",
+    "privateMain": "HOPRのネットワークは分散型でインセンティブつきのmixnet（混合ネットワーク）でできています。したがって、ユーザーのデータやメタデータに完全なプライバシーを提供できます。データは複数のノードを中継することにより、送信者と受信者だけがデータの発信元、宛先、またはコンテンツを知っています。",
+    "profitable": "利益あり",
+    "profitableMain": "HOPRの独特なプルーフ・オブ・リレー（中継した証）のメカニズムは、すべてのノードの所有者がデータを正しく中継するのと引き換えにHOPRトークンをもらえる仕組みです。 誰でもHOPRノードを実行することができ、HOPRトークンを獲得し、オンラインデータのプライバシーに貢献できます。",
+    "title": "HOPRの仕組み"
+  },
+  "roadMap": {
+    "item1Date": "2019年11月",
+    "item1Description": "HOPRの創設者は、メタデータのプライバシーの大問題に対する分散型アプローチを開発しました。 HOPRが誕生しました！",
+    "item1Title": "誕生",
+    "item1L1": "HOPRの本、",
+    "item1L2": "ホワイトペーパー参照",
+    "item2Date": "2020年4月",
+    "item2Description": "HOPRが正式に立ち上げられ、Binanceが主導する100万ドルのシード資金調達ラウンドが終了します。 HOPR協会が設立されました",
+    "item2Title": "資金調達と立ち上げ",
+    "item2L1": "Binance",
+    "item3Date": "2020年7月",
+    "item3Description": "HOPRノードPCが公開され、ユーザーが自宅で専用のHOPRデバイスを実行できるようになりました。",
+    "item3Title": "HOPR　ハードウェアノード",
+    "item3L1": "参照：ショップ",
+    "item3L2": "gitHub",
+    "item4Date": "2020年11月",
+    "item4Description": "インセンティブのある、ゲーム化された一部のテストネットは、コミュニティとネットワークを2000ノードまでに成長させました。",
+    "item4Title": "テストとコミュニティ",
+    "item4L1": "Matic",
+    "item4L2": "xDai",
+    "item4L3": "BSC",
+    "item5Date": "2021 Q1",
+    "item5Description": "HOPRリリースのJungfrau版は、初めてHOPRノードとHOPRトークンの機能が完全しているリリースとなりました。",
+    "item5Title": "Jungfrauリリース",
+    "item5L1": "参照",
+    "item6Date": "Q1 2022　",
+    "item6Description": "HOPRのEigerリリースはカバートラフィックを導入し、プロトコル機能を完全なものにする.",
+    "item6Title": "Eigerのリリース",
+    "item6L1": "参照：ブログ投稿",
+    "item7Date": "2021 Q2　",
+    "item7Description": "ガバナンス有りの分散型コミュニティに焦点を合わせ、HOPR DAOが立ち上げられます。",
+    "item7Title": "HOPR DAOの立ち上げ",
+    "item7L1": "DecenGov",
+    "item8Date": "Q2 2022年",
+    "item8Description": "堅牢なAPIによって、HOPRプロトコル上にメタデータ・プライベートなdAppsやサービスを構築できるようになる。",
+    "item8Title": "エコシステムのローンチ",
+    "item8L1": "参照：ブログ投稿",
+    "item9Date": "Q3 2021",
+    "item9Description": "NFTブーストシステムを利用したHOPRのゲーミフィケーションされたステーキングプログラム。",
+    "item9Title": "ゲーミフィケーションステーキングプログラム",
+    "item9L1": "Blogpost",
+    "item10Date": "Q4 2021",
+    "item10Description": "HOPRネットワーク上で実行される最初の分散型アプリttolのローンチ.",
+    "item10Title": "HOPR上での最初のdAppをローンチ",
+    "item10L1": "Blogpost",
+    "title": "ROADMAP"
+  },
+  "modal": {
+    "about": "このリンクをクリックすると、サードパーティが提供するWebサイトにリダイレクトされます。 HOPR（関連するエンティティも同様）は、サードパーティのWebサイトのコンテンツ、オファリング（HOPRトークンに関するオファリングを含む）、またはリソースを管理できません。それに、サードパーティのWebサイトのコンテンツ、オファリングやリソースの使用により発生する損失、または損害に対しては、責任を負いません。 サードパーティのWebサイトにアクセスする場合は、完全に自己責任です。サードパーティのWebサイトの利用規約に従うものとします.",
+    "public": "<paragraph>HOPRトークンのリリースについて、または、プロジェクトに関する他のニュースを入手するには、 <newsletter>ニュースレター</newsletter>に購読するか <twitter>Twitter</twitter>または<telegram>Telegram</telegram>.</paragraph> でフォローしてください。",
+    "title": "免責事項",
+    "btnCancel": "中止",
+    "btnIAgree": "同意する"
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "content": "<p> Your data, your decision. <br \/> <br \/> HOPR keeps any exchange of data private. <br \/> The <a href=\"\/technology#hopr-protocol\"><span class=\"text-color-high underline\">HOPR protocol<\/span><\/a> is a layer-0 privacy foundation for anyone to <a href=\"https:\/\/www.coindesk.com\/dont-hodl-buidl-blockchain-tech-will-add-value-2018\" target=\"_blank\" rel=\"noopener noreferrer\" ><span class=\"text-color-high underline\">build<\/span><\/a> on.<\/p><p> Standard end-to-end encryption does not provide sufficient privacy. <br \/> It leaks important metadata, such as who is exchanging data, when, and how often. Securing network-level privacy with HOPR unlocks a range of opportunities such as:<\/p>"
+  },
+  "connectDevices": {
+    "title": "Connect devices and clouds",
+    "content": "<ol><li>Exchange health data between <a href=\"https:\/\/www.sedimentum.com\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">hospitals and off-site computing centers<\/span><\/a>, compliant with data privacy regulations (GDPR, HIPAA, CCPA)<\/li><li>Connect IoT devices to the cloud without revealing the device\u2019s owner or location<\/li><li>Securely process data via <a href=\"https:\/\/www.media.mit.edu\/projects\/distributed-learning-and-collaborative-learning-1\/overview\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">split learning<\/span><\/a> for distributed machine learning<\/li><\/ol>"
+  },
+  "makeCrypto": {
+    "title": "Make crypto assets private",
+    "content": "<ol><li>Complement <a href=\"https:\/\/tornado.cash\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">on-chain privacy<\/span><\/a> with HOPR's network-level privacy for truly confidential transactions<\/li><li>Create trustless and privacy-first <a href=\"http:\/\/biconomy.io\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">layer-2 scaling solutions<\/span><\/a><\/li><li>Facilitate the exchange of <a href=\"https:\/\/openvasp.org\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">confidential financial data<\/span><\/a> between regulated institutions<\/li><\/ol>"
+  },
+  "digiWithout": {
+    "title": "Digitalization without privacy concerns",
+    "content": "<ol><li>Securely access private documents<\/li><li><a href=\"https:\/\/matrix.org\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">Chat in private<\/span><\/a>, so not even the provider knows who you\u2019re talking to<\/li><li><a href=\"https:\/\/www.sherpany.com\/en\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">Manage your organization<\/span><\/a> securely from anywhere, including your home office<\/li><\/ol>"
+  }
+}

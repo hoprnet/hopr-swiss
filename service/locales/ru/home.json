@@ -1,0 +1,185 @@
+{
+  "headline": {
+    "title": "ИНВЕСТИРУЙ В КОНФИДЕНЦИАЛЬНОСТЬ МЕТАДАННЫХ",
+    "beforeInfoTop": "Трафик данных в мире растет в геометрической прогрессии, также как растут и риски безопасности.",
+    "beforeInfoBottom": "HOPR обеспечивает необходимую конфиденциальность метаданных на сетевом уровне для всех.",
+    "caption": "Гипотетическое изменение цены (если не было покупок)",
+    "mainInfo": "home_headline_mainInfo",
+    "titleTicket": "Balancer Launch",
+    "txtDownNum": "за токен HOPR",
+    "fPoint": "home_headline_fPoint",
+    "sPoint": "home_headline_sPoint",
+    "tPoint": "home_headline_tPoint",
+    "tokenLeft": "home_headline_tokenLeft"
+  },
+  "back": {
+    "title": "ПРИ ПОДДЕРЖКЕ",
+    "titleA": "ПАРТНЕРЫ ",
+    "titleB": "ПУБЛИКАЦИИ"
+  },
+  "banner": {
+    "label": "Будьте первым, кто зарабатывает и стекает токены HOPR с нашим ограниченным выпуском токенов.",
+    "labelPreSales": "Будьте одними из первых, чтобы получить наибольшую прибыль от стекинга нашего токена HOPR.",
+    "button": "Получить токены HOPR",
+    "btnCommunity1": "ПРЕДПРОДАЖА",
+    "btnCommunity2": "ДЛЯ КОМЬЮНИТИ",
+    "btnPublic1":"ПУБЛИЧНАЯ",
+    "btnPublic2": "ПРОДАЖА",
+    "disclaimer": "ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ",
+    "stake": "КАК СТЕКАТЬ HOPR"
+  },
+  "features": {
+    "pay": "Оплата",
+    "payMain": "Оплачивайте токенами HOPR отправку данных через сеть HOPR с полной конфиденциальностью данных и метаданных.",
+    "stake": "Стекинг",
+    "stakeMain": "Залочьте токены HOPR на своей ноде, чтобы передавать пользовательские данные и покрыть трафик. Чем больше токенов у вас в стеке, тем больше данных вы можете передавать и тем больше можете заработать.",
+    "title": "ОСОБЕННОСТИ ТОКЕНА HOPR",
+    "vote": "Голосование",
+    "voteMain": "От технических параметров до состава совета директоров HOPR, участвуйте в децентрализованном управлении с учетом интересов сообщества."
+  },
+  "further": {
+    "infoBottomATitle": "home_further_infoBottomATitle",
+    "infoBottomBTitle": "home_further_infoBottomBTitle",
+    "infoBottomCTitle": "home_further_infoBottomCTitle",
+    "infoBottomDTitle": "home_further_infoBottomDTitle",
+    "infoBottomETitle": "home_further_infoBottomETitle",
+    "infoTopTitleA": "home_further_infoTopTitleA",
+    "infoTopTitleAAbout": "home_further_infoTopTitleAAbout",
+    "infoTopTitleB": "home_further_infoTopTitleB",
+    "infoTopTitleBAbout": "home_further_infoTopTitleBAbout",
+    "title": "home_further_title"
+  },
+  "hardware": {
+    "about": "Каждый может запустить ноду HOPR на собственном оборудовании! Мы предлагаем простое в установке программное обеспечение для Linux, macOS, Windows, Docker и облачных сред. Начните зарабатывать токены HOPR в считанные минуты.",
+    "caption": "Мы также продаем аппаратные ноды HOPR, для более быстрого стекинга.",
+    "subtitleA": "Запуск на собственном оборудовании",
+    "subtitleB": "Ваша аппаратная нода HOPR",
+    "title": "ЗАПУСК НОДЫ HOPR"
+  },
+  "graphic": {
+    "bounties": "Баунти",
+    "cover": "Покрытие трафика",
+    "early": "home_graphic_early",
+    "pre": "Ранние покупатели токенов",
+    "public": "Публичное распространение",
+    "team": "Команда и консультанты",
+    "treasury": "Казначейство",
+    "votes": "home_graphic_votes",
+    "month": "{{nMonth}} месяц"
+  },
+  "hero": {
+    "subtitle": "ЗАПУСК ПРОДАЖИ ТОКЕНОВ HOPR ЧЕРЕЗ:",
+    "subtitlePre": "ОКОНЧАНИЕ ПРОДАЖИ ТОКЕНОВ HOPR ЧЕРЕЗ:",
+    "title": "home_hero_title"
+  },
+  "slide": {
+    "slideA": "Sandro Cilurzo, Соучредитель и генеральный директор Sedimentum AG.",
+    "slideAMain": "HOPR разработал эту революционную технологию с открытым исходным кодом для использования разработчиками по всему миру, заботящимися о конфиденциальности. HOPR интегрирован в нашу передовую технологию сохранения конфиденциальности, чтобы спасти жизни без ущерба для конфиденциальности.",
+    "slideB": "Beniamin Mincu, Главный исполнительный директор Elrond",
+    "slideBMain": "Протокол HOPR предлагает новый стандарт производительности в масштабах Интернета, вероятностной безопасности и криптографической псевдонимности. Мы счастливы преодолеть последнюю милю до точек входа в сеть Elrond с помощью HOPR и предложить по-настоящему децентрализованный и частный опыт сквозного шифрования для наших пользователей.",
+    "slideC": "Gin Chao, Binance Сотрудник по стратегии",
+    "slideCMain": "Команда HOPR показала нам, как их децентрализованная сеть обеспечивает гарантии конфиденциальности на уровне метаданных и возвращает власть людям."
+  },
+  "token": {
+    "about": "Сеть HOPR работает на одноимённом токене HOPR, который является служебным (utility) токеном сети Ethereum.",
+    "listItemA": "Имя токена: токен HOPR",
+    "listItemB": "Символ токена: HOPR",
+    "listItemC": "Сеть: Ethereum",
+    "listItemD": "Стандарты: ERC20, ERC777",
+    "listItemE": "Общий объем: 1 млрд HOPR",
+    "listItemF": "Первоначальное оборотное предложение: 130 млн HOPR",
+    "secondSubAbout": "Начиная с первоначального оборотного предложения в 130 миллионов, токены HOPR будут выпускаться в течение 4 лет. Четверть всех токенов HOPR доступны только участникам в качестве вознаграждения за ретрансляцию покрывающего трафика.",
+    "secondSubTitle": "Распределение токенов",
+    "subTitle": "Ключевые метрики",
+    "thirdSubTitle": "Распределение токенов",
+    "title": "Выпуск токена",
+    "textEnding": "home_token_textEnding",
+    "additionalInfo": "Additional information on ",
+    "tokenLaunch": "Токены выпускаются 27 числа каждого месяца"
+  },
+  "why": {
+    "btnLabel": "home_why_btnLabel",
+    "labelDate": "home_why_labelDate",
+    "mainText": "home_why_mainText",
+    "title": "home_why_title"
+  },
+  "work": {
+    "performant": "Эффективность",
+    "performantMain": "Решение HOPR для масштабирования второго уровня основано на вероятностных каналах оплаты. Это обеспечивает полностью децентрализованный расчет без ненужных комиссий за транзакции блокчейна, при этом защищая метаданные владельцев ноды.",
+    "private": "Приватность",
+    "privateMain": "Сеть HOPR представляет собой децентрализованный стимулируемый микснет, обеспечивающий полную конфиденциальность данных и метаданных для всех, кто его использует. Данные отправляются через несколько узлов, поэтому никто, кроме отправителя и получателя, не знает источник, пункт назначения или содержание переданных данных.",
+    "profitable": "Рентабельность",
+    "profitableMain": "Уникальный механизм proof-of-relay (PoR) HOPR означает, что каждый владелец ноды заинтересован в правильной передаче данных в обмен на токены HOPR. Любой может запустить ноду HOPR, чтобы зарабатывать токены HOPR и вносить свой вклад в обеспечение конфиденциальности данных в Интернете.",
+    "title": "КАК ЭТО РАБОТАЕТ"
+  },
+  "roadMap": {
+    "item1Date": "  Ноябрь 2019",
+    "item1Description": "Основатели HOPR разрабатывают децентрализованный подход к актуальной проблеме конфиденциальности метаданных. Зарождение проекта HOPR.",
+    "item1Title": "Идея",
+    "item1L1": "Книга HOPR",
+    "item1L2": "Технический White Paper",
+    "item2Date": "Апрель 2020",
+    "item2Description": "HOPR официально объявляет об открытии seed раунда в размере 1 млн. долларов США под руководством Binance. Учреждена Ассоциация HOPR.",
+    "item2Title": "Финансирование и запуск",
+    "item2L1": "Binance",
+    "item3Date": "Июль 2020",
+    "item3Description": "Выпуск аппаратной ноды HOPR, позволяющий пользователям запускать специальное устройство HOPR из своего дома.",
+    "item3Title": "Аппаратная нода HOPR",
+    "item3L1": "Магазин",
+    "item3L2": "gitHub",
+    "item4Date": "Ноябрь 2020",
+    "item4Description": "Серия популярных стимулированных и геймифицированных тестнетов расширяет сообщество и сеть до 2000 узлов.",
+    "item4Title": "Тестирование и сообщество",
+    "item4L1": "Matic",
+    "item4L2": "xDai",
+    "item4L3": "BSC",
+    "item5Date": "В I квартале 2021 года.",
+    "item5Description": "Релиз HOPR Jungfrau это первая полнофункциональная версия узла HOPR и токена HOPR.",
+    "item5Title": "Релиз Jungfrau",
+    "item5L1": "Страница продажи",
+    "item6Date": "Q1 2022.",
+    "item6Description": "Релиз Eiger на HOPR вводит трафик покрытия, делая функцию протокола полной.",
+    "item6Title": "Релиз Eiger",
+    "item6L1": "сообщение в блоге",
+    "item7Date": " Во II квартале 2021 года.",
+    "item7Description": "Акцент HOPR на децентрализованном сообществе, обеспечивающем управление, подтверждается запуском проекта HOPR DAO.",
+    "item7Title": "Запуск HOPR DAO",
+    "item7L1": "DecenGov",
+    "item8Date": "Q2 2022.",
+    "item8Description": "Надежный API позволяет другим создавать приватные dApp и сервисы на основе протокола HOPR.",
+    "item8Title": "Запуск экосистемы",
+    "item8L1": "Blogpost",
+    "item9Date": "Q3 2021.",
+    "item9Description": "Игровая программа стекинга HOPR с системой NFT boost.",
+    "item9Title": "Игровая программа стекинга",
+    "item9L1": "Blogpost",
+    "item10Date": "Q4 2021",
+    "item10Description": "Запуск первого децентрализованного приложения в сети HOPR.",
+    "item10Title": "Запуск первого dApp на HOPR",
+    "item10L1": "Blogpost",
+    "title": "ДОРОЖНАЯ КАРТА"
+  },
+  "modal": {
+    "about": "Нажав на эту ссылку, вы будете перенаправлены на веб-сайт, предоставленный третьей стороной (сторонний веб-сайт). HOPR (как и любая аффилированная организация) не контролирует содержание, предложения (в том числе предложения в отношении токенов HOPR) или ресурсы веб-сайта третьей стороны, и не несет никакой ответственности за веб-сайт третьей стороны, содержание, предложения или ресурсы, или за любые потери или ущерб, которые могут возникнуть в результате использования веб-сайта третьей стороны, содержания, предложения или ресурсы. Если Вы решаете получить доступ к стороннему веб-сайту, Вы делаете это исключительно на свой страх и риск и в соответствии с условиями использования стороннего веб-сайта.",
+    "public": "<paragraph>Чтобы первым узнать, когда начнутся продажи токенов HOPR, и получать другие новости о проекте, подпишитесь на нашу рассылку <newsletter>новостей</newsletter> или следите за нами в <twitter>Twitter</twitter> или <telegram>Telegram</telegram>.</paragraph>",
+    "title": "ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ",
+    "btnCancel": "Отменить",
+    "btnIAgree": "Я СОГЛАСЕН"
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "content": "<p> Your data, your decision. <br \/> <br \/> HOPR keeps any exchange of data private. <br \/> The <a href=\"\/technology#hopr-protocol\"><span class=\"text-color-high underline\">HOPR protocol<\/span><\/a> is a layer-0 privacy foundation for anyone to <a href=\"https:\/\/www.coindesk.com\/dont-hodl-buidl-blockchain-tech-will-add-value-2018\" target=\"_blank\" rel=\"noopener noreferrer\" ><span class=\"text-color-high underline\">build<\/span><\/a> on.<\/p><p> Standard end-to-end encryption does not provide sufficient privacy. <br \/> It leaks important metadata, such as who is exchanging data, when, and how often. Securing network-level privacy with HOPR unlocks a range of opportunities such as:<\/p>"
+  },
+  "connectDevices": {
+    "title": "Connect devices and clouds",
+    "content": "<ol><li>Exchange health data between <a href=\"https:\/\/www.sedimentum.com\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">hospitals and off-site computing centers<\/span><\/a>, compliant with data privacy regulations (GDPR, HIPAA, CCPA)<\/li><li>Connect IoT devices to the cloud without revealing the device\u2019s owner or location<\/li><li>Securely process data via <a href=\"https:\/\/www.media.mit.edu\/projects\/distributed-learning-and-collaborative-learning-1\/overview\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">split learning<\/span><\/a> for distributed machine learning<\/li><\/ol>"
+  },
+  "makeCrypto": {
+    "title": "Make crypto assets private",
+    "content": "<ol><li>Complement <a href=\"https:\/\/tornado.cash\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">on-chain privacy<\/span><\/a> with HOPR's network-level privacy for truly confidential transactions<\/li><li>Create trustless and privacy-first <a href=\"http:\/\/biconomy.io\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">layer-2 scaling solutions<\/span><\/a><\/li><li>Facilitate the exchange of <a href=\"https:\/\/openvasp.org\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">confidential financial data<\/span><\/a> between regulated institutions<\/li><\/ol>"
+  },
+  "digiWithout": {
+    "title": "Digitalization without privacy concerns",
+    "content": "<ol><li>Securely access private documents<\/li><li><a href=\"https:\/\/matrix.org\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">Chat in private<\/span><\/a>, so not even the provider knows who you\u2019re talking to<\/li><li><a href=\"https:\/\/www.sherpany.com\/en\/\" target=\"_blank\" rel=\"noopener noreferrer\"><span className=\"text-color-high underline\">Manage your organization<\/span><\/a> securely from anywhere, including your home office<\/li><\/ol>"
+  }
+}
