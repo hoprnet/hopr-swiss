@@ -1,0 +1,14 @@
+.section-paragraph {
+  display: flex;
+  flex-direction: column;
+
+  > .box-paragraph {
+    align-self: center;
+    width: 45%;
+
+    & p {
+      line-height: 3.125rem;
+      text-align: center;
+    }
+  }
+}

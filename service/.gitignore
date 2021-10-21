@@ -5,12 +5,15 @@
 /.pnp
 .pnp.js
 
+.yarn.lock
+
 # testing
 /coverage
 
 # next.js
 /.next/
 /out/
+
 # production
 /build
 
