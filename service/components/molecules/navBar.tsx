@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { NextPage } from "next";
-import Link from "next/link";
+import React from "react";
+import { ALink } from "../atoms/a";
 import { Images } from "../atoms/images";
 
 interface NavBarProps {}
@@ -9,9 +9,9 @@ interface NavBarProps {}
 export const NavBar: NextPage<NavBarProps> = ({}) => {
   return (
       <motion.nav>
-        <Link href="/">
+        <ALink href="/">
           <Images src="/assets/icons/logo.svg" alt="hopr logo" className="logo-nav"/>
-        </Link>
+        </ALink>
       </motion.nav>
   );
 };

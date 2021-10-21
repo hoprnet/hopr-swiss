@@ -1,9 +1,13 @@
-.section .container .element-hopr-values {
-  align-items: flex-start;
-  display: flex;
-  justify-content: space-around;
+.hopr-values {
+  ul {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+  }
 
-  .element-hopr-item {
+  li {
     align-items: center;
     box-sizing: border-box;
     display: flex;
@@ -13,7 +17,7 @@
     text-align: center;
     width: 25%;
     img {
-      width: 6.25rem;
+      width: 40%;
     }
   }
 }

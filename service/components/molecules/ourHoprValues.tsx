@@ -1,24 +1,22 @@
-import { NextPage } from "next";
-import { OurHoprValue } from "../../constants";
-import { Images } from "../atoms/images";
+import { NextPage } from 'next';
+import { OurHoprValue } from '../../constants/home';
+import { Images } from '../atoms/images';
+import { PElement } from '../atoms/p';
 
 interface OurHoprValuesProps {}
 
 export const OurHoprValues: NextPage<OurHoprValuesProps> = ({}) => {
   return (
-    <div className="element-hopr-values">
-      {OurHoprValue.map((x, i) => (
-        <div
-          key={i}
-          className="element-hopr-item"
-        >
-          <Images src={x.img} alt={x.title} />
-          <div>
+    <div className="hopr-values">
+      <ul>
+        {OurHoprValue.map((x, i) => (
+          <li key={i}>
+            <Images src={x.img} alt={x.title} />
             <h4>{x.title}</h4>
-            <p>{x.text}</p>
-          </div>
-        </div>
-      ))}
+            <PElement>{x.text}</PElement>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 };

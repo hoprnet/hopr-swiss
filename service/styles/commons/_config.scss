@@ -12,14 +12,14 @@ body {
   }
 
   h1 {
-    color: #ffffff;
-    font-size: 120px;
+    color: $hopr_white;
+    font-size: 7.5rem;
     font-weight: normal;
     line-height: normal;
     margin: 0;
     padding: 0;
     text-align: center;
-    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 0rem 0.125rem 0.25rem rgba(0, 0, 0, 0.5);
   }
 
   h2 {
@@ -31,6 +31,7 @@ body {
 
   h4 {
     color: $hopr_grey;
+    text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
   }
@@ -46,7 +47,19 @@ body {
   background-color: $hopr_yellow;
 }
 
+.background-blue{
+  background-color: $hopr_blue;
+}
+
 .padding-sections {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.p-color-white {
+  color: $hopr_white;
+}
+
+.p-align-left {
+  text-align: left;
 }
