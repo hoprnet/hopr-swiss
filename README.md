@@ -26,7 +26,7 @@ website, please submit it as an [issue](https://github.com/hoprnet/hoprnet-org/i
 
 ### Requirements
 
-- `nodejs@14`
+- `nodejs@16`
 - `yarn`
 
 ### Instructions
