@@ -108,13 +108,13 @@ export const dataBoardAssociation = [
 export const dataCommittee = [
   {
     link: 'https://www.linkedin.com/in/cluchsinger/',
-    image: '/assets/images/team/catrina_luchsinger.jpg',
+    image: '/assets/images/team/luchsinger.png',
     name: 'Dr. Catrina Luchsinger',
     label: 'Board Member',
   },
   {
     link: 'https://www.linkedin.com/in/ronald-kogens/',
-    image: '/assets/images/team/ronald_kogens.jpg',
+    image: '/assets/images/team/kogens.png',
     name: 'Ronald Kogens',
     label: 'Board Member',
   },
