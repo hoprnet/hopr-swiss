@@ -11,10 +11,9 @@
 }
 
 .section.video {
-  height: calc(100vh - 3.375rem);
+  height: 100vh;
   overflow: hidden;
   position: relative;
-  justify-content: center;
 
   h1 {
     position: relative;
