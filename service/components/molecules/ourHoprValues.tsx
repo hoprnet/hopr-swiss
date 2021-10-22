@@ -11,7 +11,7 @@ export const OurHoprValues: NextPage<OurHoprValuesProps> = ({}) => {
       <ul>
         {OurHoprValue.map((x, i) => (
           <li key={i}>
-            <Images src={x.img} alt={x.title} />
+            <Images src={x.img} alt={x.title} width={100} heigh={250}/>
             <h4>{x.title}</h4>
             <PElement>{x.text}</PElement>
           </li>

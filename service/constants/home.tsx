@@ -1,25 +1,25 @@
 export const ContactUsData = [
   {
     link: 'mailto:client@HOPR.swiss',
-    img: 'assets/images/contact-us/techies.png',
+    img: '/assets/images/contact-us/techies.png',
     label: '...',
     target: '_blank',
   },
   {
     link: 'mailto:Jobs@HOPR.swiss',
-    img: 'assets/images/contact-us/techies.png',
+    img: '/assets/images/contact-us/techies.png',
     label: 'Techies',
     target: '_blank',
   },
   {
     link: 'mailto:partners@HOPR.swiss',
-    img: 'assets/images/contact-us/entrepreneurs.png',
+    img: '/assets/images/contact-us/entrepreneurs.png',
     label: 'Entrepreneurs',
     target: '_blank',
   },
   {
     link: 'mailto:investors@HOPR.swiss',
-    img: 'assets/images/contact-us/investors.png',
+    img: '/assets/images/contact-us/investors.png',
     label: 'Investors',
     target: '_blank',
   },
@@ -27,20 +27,20 @@ export const ContactUsData = [
 
 export const OurHoprValue = [
   {
-    img: 'assets/images/our-hopr-values/protection-shield.png',
+    img: '/assets/images/our-hopr-values/protection-shield.png',
     title: 'GUARDIAN OF CHOICES',
     text: `Everyone should have the chance to make decisions in their lives as freely and uninfluenced as possible.
             This is exactly what we are committed to - neutrally and transparently.`,
   },
   {
-    img: 'assets/images/our-hopr-values/light-bulb-shine.png',
+    img: '/assets/images/our-hopr-values/light-bulb-shine.png',
     title: 'CURIOUS PIONEER',
     text: `We want to improve the privacy standards of the digital world and are always looking for new ways to do so.
             We boldly go new ways. And when we find a suitable way, we do everything we can to make it work for our community
             and society.`,
   },
   {
-    img: 'assets/images/our-hopr-values/multiple-users-1.png',
+    img: '/assets/images/our-hopr-values/multiple-users-1.png',
     title: 'VIVID ORGANISM',
     text: `HOPR is a living ecosystem made up of many different people who share the same goal.
             We want everyone to have the space for their own ideas and to be able to develop freely.
@@ -51,30 +51,30 @@ export const OurHoprValue = [
 export const aPartners = [
   {
     url: 'https://mll-legal.com/',
-    image: 'assets/images/partners/02_froriep.png',
+    image: '/assets/images/partners/02_froriep.png',
   },
   {
     url: 'https://www.sedimentum.com/',
-    image: 'assets/images/partners/04_sedimentum.svg',
+    image: '/assets/images/partners/04_sedimentum.svg',
   },
   {
     url: 'https://www.swiss-medtech.ch/',
-    image: 'assets/images/partners/05_swiss_medtech.svg',
+    image: '/assets/images/partners/05_swiss_medtech.svg',
   },
   {
     url: 'https://healthtech.ch/',
-    image: 'assets/images/partners/07_health_tech_cluster.svg',
+    image: '/assets/images/partners/07_health_tech_cluster.svg',
   },
   {
     url: 'https://swisshealthcarestartups.com/',
-    image: 'assets/images/partners/08_swiss_healthcare_startups.svg',
+    image: '/assets/images/partners/08_swiss_healthcare_startups.svg',
   },
   {
-    image: 'assets/images/partners/09_swissmade_software_logo.png',
+    image: '/assets/images/partners/09_swissmade_software_logo.png',
     url: 'https://www.swissmadesoftware.org',
   },
   {
-    image: 'assets/images/partners/Rockstar_Recruiting.png',
+    image: '/assets/images/partners/Rockstar_Recruiting.png',
     url: 'https://www.rockstarjobs.ch/',
   },
 ];

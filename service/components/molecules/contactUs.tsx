@@ -13,7 +13,7 @@ export const ContactUs: NextPage<ContactUsProps> = ({}) => {
         <ALink key={i} href={e.link} target={e.target}>
           <div className="contact-us-item">
             <div className="contact-us-image">
-              <Images src={e.img} alt={e.label} />
+              <Images src={e.img} alt={e.label} width={75} heigh={75}/>
             </div>
             <h6>{e.label}</h6>
           </div>

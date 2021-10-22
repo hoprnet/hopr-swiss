@@ -10,11 +10,14 @@ export const NavBar: NextPage<NavBarProps> = ({}) => {
   return (
     <motion.nav>
       <ALink href="/">
-        <Images
-          src="/assets/icons/logo.svg"
-          alt="hopr logo"
-          className="logo-nav"
-        />
+        <div className="logo-nav">
+          <Images
+            src="/assets/icons/logo.svg"
+            alt="hopr logo"
+            width={80}
+            heigh={45}
+          />
+        </div>
       </ALink>
     </motion.nav>
   );
