@@ -273,11 +273,11 @@ export const hoprTeam = (
 
 export const addres1 = (
   <>
-    Europe:
+    HOPR Services AG
     <br />
-    Rebbergstrasse 33
+    Bleicherweg 33
     <br />
-    8706 Meilen
+    8002 Zurich
     <br />
     Switzerlad
   </>
@@ -287,8 +287,6 @@ export const addres2 = (
   <>
     Asia:
     <br />
-    Coming soon:
-    <br />
-    Singapore
+    Singapore coming soon
   </>
 );
