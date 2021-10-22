@@ -84,13 +84,13 @@ export const dataBoardAssociation = [
     link: 'https://www.linkedin.com/in/scbuergel/',
     image: '/assets/images/team/sebastian_burgel.png',
     name: 'Dr. Sebastian Bürgel',
-    label: 'President',
+    label: 'CEO',
   },
   {
     link: 'https://www.linkedin.com/in/ronald-kogens/',
     image: '/assets/images/team/rik_krieger.png',
     name: 'Rik Krieger, eMBA',
-    label: 'Board Member',
+    label: 'President',
   },
   {
     link: 'https://www.linkedin.com/in/robert-kiel-176878161/',
