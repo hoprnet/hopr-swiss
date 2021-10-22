@@ -48,7 +48,7 @@ body {
 }
 
 .background-blue{
-  background-color: $hopr_blue;
+  background: linear-gradient($hopr_dark_blue, $hopr_bright_blue);
 }
 
 .padding-sections {
