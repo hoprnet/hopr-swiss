@@ -1,5 +1,5 @@
-import { NextPage } from "next";
-import React, { MutableRefObject } from "react";
+import { NextPage } from 'next';
+import React, { MutableRefObject } from 'react';
 
 interface VideosProps {
   src: string;

@@ -1,6 +1,6 @@
-import { NextPage } from "next";
-import React, { useRef } from "react";
-import { Videos } from "../atoms/videos";
+import { NextPage } from 'next';
+import React, { useRef } from 'react';
+import { Videos } from '../atoms/videos';
 
 interface VideoHoprProps {}
 

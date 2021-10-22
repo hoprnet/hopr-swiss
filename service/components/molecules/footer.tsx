@@ -23,9 +23,7 @@ export const Footer: NextPage<FooterProps> = ({}) => {
               <ul>
                 <li>
                   <ALink href="/disclaimer">
-                    <PElement className="p-color-white">
-                      Disclaimer
-                    </PElement>
+                    <PElement className="p-color-white">Disclaimer</PElement>
                   </ALink>
                 </li>
               </ul>

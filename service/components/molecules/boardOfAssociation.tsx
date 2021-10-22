@@ -3,10 +3,12 @@ import { ALink } from '../atoms/a';
 import { Images } from '../atoms/images';
 
 interface BoardOfAssociationProps {
-    data: Array<any>;
+  data: Array<any>;
 }
 
-export const BoardOfAssociation: NextPage<BoardOfAssociationProps> = ({data}) => {
+export const BoardOfAssociation: NextPage<BoardOfAssociationProps> = ({
+  data,
+}) => {
   return (
     <div className="board-of-association">
       <ul>

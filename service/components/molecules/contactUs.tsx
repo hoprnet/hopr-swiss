@@ -1,8 +1,8 @@
-import { NextPage } from "next";
-import React from "react";
-import { ContactUsData } from "../../constants/home";
-import { ALink } from "../atoms/a";
-import { Images } from "../atoms/images";
+import { NextPage } from 'next';
+import React from 'react';
+import { ContactUsData } from '../../constants/home';
+import { ALink } from '../atoms/a';
+import { Images } from '../atoms/images';
 
 interface ContactUsProps {}
 

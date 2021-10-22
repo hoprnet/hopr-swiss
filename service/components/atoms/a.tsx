@@ -1,5 +1,5 @@
-import { NextPage } from "next";
-import React from "react";
+import { NextPage } from 'next';
+import React from 'react';
 
 interface AProps {
   href?: string;
@@ -8,7 +8,7 @@ interface AProps {
 
 export const ALink: NextPage<AProps> = ({ children, href, target }) => {
   return (
-    <a href={href} target={target} >
+    <a href={href} target={target}>
       {children}
     </a>
   );
