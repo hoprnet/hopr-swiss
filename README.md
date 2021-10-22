@@ -17,7 +17,7 @@
   </p>
 </p>
 
-## Introduction
+## Introductions
 
 The following repository hosts the code for the HOPR Protocol and HOPR Association [website](https://hoprnet.org). If you find any issues with the
 website, please submit it as an [issue](https://github.com/hoprnet/hoprnet-org/issues) in this repository.
