@@ -12,7 +12,7 @@ export const Partners: NextPage<PartenersProps> = ({}) => {
         {aPartners.map((x, i) => (
           <li key={i}>
             <ALink href={x.url} target="_blank">
-              <Images src={x.image} width={140} heigh={200}/>
+              <Images src={x.image} width={140} height={200}/>
             </ALink>
           </li>
         ))}

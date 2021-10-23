@@ -7,7 +7,7 @@ interface ImagesProps {
   className?: string;
   alt?: string;
   width: number;
-  heigh: number;
+  height: number;
   onClick?: () => void;
 }
 
@@ -16,7 +16,7 @@ export const Images: NextPage<ImagesProps> = ({
   className,
   alt,
   width,
-  heigh,
+  height,
   onClick,
 }) => {
   return (
@@ -25,7 +25,7 @@ export const Images: NextPage<ImagesProps> = ({
       className={className}
       alt={alt}
       width={width}
-      height={heigh}
+      height={height}
       onClick={onClick}
     />
   );

@@ -14,8 +14,8 @@ export const NavBar: NextPage<NavBarProps> = ({}) => {
           <Images
             src="/assets/icons/logo.svg"
             alt="hopr logo"
-            width={80}
-            heigh={45}
+            width={90}
+            height={41}
           />
         </div>
       </ALink>

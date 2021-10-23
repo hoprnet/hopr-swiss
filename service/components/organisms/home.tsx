@@ -78,8 +78,8 @@ const Home: NextPage<HomeProps> = ({}) => {
         <div className="team-paragraph">
           <Images
             src="/assets/images/team-paragraph/team-card-with-blue-stroke.png"
-            width={390}
-            heigh={0}
+            width={330}
+            height={330}
           />
           <ParagraphHopr p={hoprTeam} />
         </div>

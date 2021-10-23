@@ -12,7 +12,7 @@ export const Footer: NextPage<FooterProps> = ({}) => {
       <div className="section padding-sections background-blue">
         <div className="container">
           <div className="first-line-footer">
-            <Images src="/assets/icons/hopr_icon.svg" width={20} heigh={600} />
+            <Images src="/assets/icons/hopr_icon.svg" width={32} height={32} />
           </div>
           <div className="second-line-footer">
             <PElement className="p-color-white">

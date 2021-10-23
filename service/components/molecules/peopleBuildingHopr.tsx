@@ -15,7 +15,7 @@ export const PeopleBuildingHopr: NextPage<PeopleBuildingHoprProps> = ({
         {data.map((x, i) => (
           <li key={i}>
             <ALink href={x.link} target="_blank">
-              <Images src={x.image} width={185} heigh={390} />
+              <Images src={x.image} width={185} height={390} />
             </ALink>
             <h4>{x.name}</h4>
             <p>{x.label}</p>
