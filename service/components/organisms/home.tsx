@@ -70,7 +70,7 @@ const Home: NextPage<HomeProps> = ({}) => {
         <h2>BOARD OF DIRECTORS</h2>
         <BoardOfAssociation data={dataBoardAssociation} />
 
-        <h4>BOARD COMMITTEE FOR LEGAL AFFAIRS</h4>
+        <h2>BOARD COMMITTEE FOR LEGAL AFFAIRS</h2>
         <BoardOfAssociation data={dataCommittee} />
       </Sections>
 
@@ -94,7 +94,7 @@ const Home: NextPage<HomeProps> = ({}) => {
       </Sections>
 
       <Sections sectionName="addreses-section">
-        <h2>Addresses</h2>
+        <h2>ADDRESSES</h2>
         <div className="team-paragraph">
           <ParagraphHopr p={addres1} />
           <ParagraphHopr p={addres2} />
