@@ -16,7 +16,7 @@ export const Footer: NextPage<FooterProps> = ({}) => {
           </div>
           <div className="second-line-footer">
             <PElement className="p-color-white">
-              ©2021 HOPR Services AG   All rights reserved
+              ©2021 HOPR Services AG
             </PElement>
             <div className="footer-menu">
               <ul>
