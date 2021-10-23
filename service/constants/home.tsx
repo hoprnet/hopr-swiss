@@ -99,9 +99,10 @@ export const dataBoardAssociation = [
     label: 'Board Member',
   },
   {
-    image: '/assets/images/team/john-doe.png',
-    name: 'John Doe',
-    label: '',
+    link: '',
+    image: '/assets/images/team/quianchen.jpg',
+    name: 'Qianchen "Q" Yu',
+    label: 'Director Local, Singapur',
   },
 ];
 
@@ -156,12 +157,6 @@ export const dataPeopleBuildingHopr = [
     image: '/assets/images/team/peter_braden.png',
     name: 'Peter Braden',
     label: 'Software Engineer',
-  },
-  {
-    link: '#',
-    image: '/assets/images/team/quianchen.jpg',
-    name: 'Qianchen "Q" Yu',
-    label: 'Decentralized Technology Architect',
   },
   {
     link: '#',
