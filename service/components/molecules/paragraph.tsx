@@ -8,9 +8,5 @@ interface ParagraphProps {
 }
 
 export const ParagraphHopr: NextPage<ParagraphProps> = ({ className, p }) => {
-  return (
-    <PElement className={className}>
-      {p}
-    </PElement>
-  );
+  return <PElement className={className}>{p}</PElement>;
 };

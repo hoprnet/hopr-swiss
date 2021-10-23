@@ -41,25 +41,29 @@ body {
     color: $hopr_grey;
     font-weight: 200;
   }
-}
 
-.background-yellow {
-  background-color: $hopr_yellow;
-}
+  .background-yellow {
+    background-color: $hopr_yellow;
+  }
 
-.background-blue{
-  background: linear-gradient($hopr_dark_blue, $hopr_bright_blue);
-}
+  .background-blue {
+    background-color: $hopr_bright_blue;
+  }
 
-.padding-sections {
-  padding-top: 4%;
-  padding-bottom: 4%;
-}
+  .background-gradient-blue {
+    background: linear-gradient($hopr_dark_blue, $hopr_bright_blue);
+  }
 
-.p-color-white {
-  color: $hopr_white;
-}
+  .padding-sections {
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
 
-.p-align-left {
-  text-align: left;
+  .p-color-white {
+    color: $hopr_white;
+  }
+
+  .p-align-left {
+    text-align: left;
+  }
 }

@@ -3,17 +3,19 @@ import { ALink } from '../atoms/a';
 import { Images } from '../atoms/images';
 
 interface PeopleBuildingHoprProps {
-    data: Array<any>;
+  data: Array<any>;
 }
 
-export const PeopleBuildingHopr: NextPage<PeopleBuildingHoprProps> = ({data}) => {
+export const PeopleBuildingHopr: NextPage<PeopleBuildingHoprProps> = ({
+  data,
+}) => {
   return (
     <div className="people-building-hopr ">
       <ul>
         {data.map((x, i) => (
           <li key={i}>
             <ALink href={x.link} target="_blank">
-              <Images src={x.image} />
+              <Images src={x.image} width={185} height={390} />
             </ALink>
             <h4>{x.name}</h4>
             <p>{x.label}</p>

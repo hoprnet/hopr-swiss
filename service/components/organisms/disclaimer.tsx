@@ -18,8 +18,8 @@ const Disclaimer: NextPage<DisclaimerProps> = ({}) => {
       >
         <div className="container">
           <h2>Disclaimer</h2>
-          <br/>
-          <ParagraphHopr p={disclaimerParagraph} className="p-align-left"/>
+          <br />
+          <ParagraphHopr p={disclaimerParagraph} className="p-align-left" />
         </div>
       </section>
 
