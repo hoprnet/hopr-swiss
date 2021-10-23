@@ -2,7 +2,7 @@ export const disclaimerParagraph = (
   <>
     Imprint/Disclaimer
     <br />
-    This website is operated by HOPR, c/o Froriep Legal AG, Bellerivestrasse 201, 8008 Zürich, Switzerland.
+    This website is operated by HOPR, Bleicherweg 33, 8002 Zürich, Switzerland.
     <br />
     By using our website, you accept and agree to be bound and abide by the following terms and conditions.
     If you do not want to agree to these terms and conditions, you must not access or use our website.
