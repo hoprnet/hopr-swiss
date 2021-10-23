@@ -70,7 +70,7 @@ const Home: NextPage<HomeProps> = ({}) => {
         <h2>BOARD OF DIRECTORS</h2>
         <BoardOfAssociation data={dataBoardAssociation} />
 
-        <h4>Board Committee for Legal Affairs</h4>
+        <h4>BOARD COMMITTEE FOR LEGAL AFFAIRS</h4>
         <BoardOfAssociation data={dataCommittee} />
       </Sections>
 
