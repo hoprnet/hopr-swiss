@@ -1,8 +1,8 @@
 export const ContactUsData = [
   {
-    link: 'mailto:client@HOPR.swiss',
+    link: 'mailto:clients@HOPR.swiss',
     img: '/assets/images/contact-us/techies.png',
-    label: '...',
+    label: 'Clients',
     target: '_blank',
   },
   {
