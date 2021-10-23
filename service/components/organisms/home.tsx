@@ -59,7 +59,7 @@ const Home: NextPage<HomeProps> = ({}) => {
       </Sections>
 
       <Sections className="background-yellow" sectionName="partners-section">
-        <h2>PARTNERS</h2>
+        <h2>CLIENTS</h2>
         <Partners />
       </Sections>
 
