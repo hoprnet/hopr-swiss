@@ -250,7 +250,7 @@ export const hoprManifesto = (
     making us independent, incorruptible and indestructible.Everyone can become
     a part of HOPR – either working on the protocol or using it as a basis for
     their own product. Our community is a vivid organism consisting of different
-    people sharing the same goal:<b> Changing data privacy for good</b>
+    people sharing the same goal:<b> CHANGING DATA PRIVACY FOR GOOD</b>
   </>
 );
 
@@ -272,13 +272,15 @@ export const hoprTeam = (
 
 export const addres1 = (
   <>
+    Europe:
+    <br />
     HOPR Services AG
     <br />
     Bleicherweg 33
     <br />
     8002 Zurich
     <br />
-    Switzerlad
+    Switzerland
   </>
 );
 

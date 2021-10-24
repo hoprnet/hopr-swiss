@@ -63,7 +63,7 @@ const Home: NextPage<HomeProps> = ({}) => {
       <Sections className="background-yellow board-of-association">
         <h2>BOARD OF DIRECTORS</h2>
         <BoardOfAssociation data={dataBoardAssociation} />
-        <h4>Board Committee for Legal Affairs</h4>
+        <h2>BOARD COMMITTEE FOR LEGAL AFFAIRS</h2>
         <BoardOfAssociation data={dataCommittee} />
       </Sections>
 
