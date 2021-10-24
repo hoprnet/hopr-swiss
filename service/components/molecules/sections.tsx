@@ -3,19 +3,17 @@ import React from 'react';
 
 interface SectionsProps {
   className?: string;
-  sectionName: string;
-  navbarORfooter?: boolean;
+  sectionName?: string;
 }
 
 export const Sections: NextPage<SectionsProps> = ({
   children,
-  className,
+  className = '',
   sectionName,
-  navbarORfooter,
 }) => {
   return (
     <section
-      className={navbarORfooter ? '' : `section padding-sections ${className}`}
+      className={`section ${className}`}
       id={sectionName}
     >
       <div className="container">{children}</div>

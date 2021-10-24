@@ -10,11 +10,21 @@
 
     li {
       box-sizing: border-box;
-      padding: 0 1%;
+      padding: 0 12px 40px 12px;
       width: calc(100% / 3);
 
-      img {
-        width: 50%;
+      a {
+        display: inline-block;
+        line-height: 0;
+      }
+
+      h4 {
+        margin: 5px 0;
+      }
+
+      p {
+        margin: 0;
+        line-height: 1.2;
       }
     }
   }

@@ -50,32 +50,46 @@ export const OurHoprValue = [
 
 export const aPartners = [
   {
-    url: 'https://mll-legal.com/',
+    height: 40,
     image: '/assets/images/partners/02_froriep.png',
+    url: 'https://mll-legal.com/',
+    width: 75,
   },
   {
+    height: 40,
     url: 'https://www.sedimentum.com/',
     image: '/assets/images/partners/04_sedimentum.svg',
+    width: 73,
   },
   {
+    height: 40,
     url: 'https://www.swiss-medtech.ch/',
     image: '/assets/images/partners/05_swiss_medtech.svg',
+    width: 171,
   },
   {
+    height: 40,
     url: 'https://healthtech.ch/',
     image: '/assets/images/partners/07_health_tech_cluster.svg',
+    width: 91,
   },
   {
+    height: 40,
     url: 'https://swisshealthcarestartups.com/',
     image: '/assets/images/partners/08_swiss_healthcare_startups.svg',
+    width: 67,
   },
   {
+    height: 40,
     image: '/assets/images/partners/09_swissmade_software_logo.png',
     url: 'https://www.swissmadesoftware.org',
+    width: 321,
   },
   {
+    height: 40,
     image: '/assets/images/partners/Rockstar_Recruiting.png',
     url: 'https://www.rockstarjobs.ch/',
+    width: 120,
   },
 ];
 
@@ -216,14 +230,9 @@ export const dataPeopleBuildingHopr = [
 
 export const paragraphHopr = (
   <>
-    At HOPR, we take cyber security seriously. HOPR is an IT consultancy with its own in-house development team. If you need to secure your company’s data, or the data you receive from your
-    clients, HOPR has you covered.
-    <br />
-    What makes us different?
-    There are many data storage solutions, either on-site or in the cloud. But
-    the real problems arise when data is transferred. HOPR ensures that data can
-    be sent and received safely, easily and with no risk of data leaks. We consult with companies and institutions and provide solutions for all
-    their data problems.
+    At HOPR, we take cyber security seriously. HOPR is an IT consultancy with its own in-house development team. If you need to secure your company’s data, or the data you receive from your clients, HOPR has you covered.<br />
+    <b>What makes us different?</b><br />
+    There are many data storage solutions, either on-site or in the cloud. But the real problems arise when data is transferred. HOPR ensures that data can be sent and received safely, easily and with no risk of data leaks. We consult with companies and institutions and provide solutions for all their data problems.
   </>
 );
 

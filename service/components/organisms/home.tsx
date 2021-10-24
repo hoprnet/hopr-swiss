@@ -27,81 +27,77 @@ interface HomeProps {}
 const Home: NextPage<HomeProps> = ({}) => {
   return (
     <>
-      <Sections sectionName="navbar-section" navbarORfooter={true}>
+      <Sections className="navbar">
         <NavBar />
       </Sections>
 
-      <Sections className="video" sectionName="video-section">
+      <Sections className="video">
         <h1>Changing Data Privacy for Good</h1>
         <HoprVideo />
       </Sections>
 
-      <Sections sectionName="paragraph-section">
+      <Sections className="paragraph-section">
         <ParagraphHopr p={paragraphHopr} />
       </Sections>
 
-      <Sections className="background-yellow" sectionName="contact-us-section">
+      <Sections className="background-yellow">
         <h2>CONTACT US</h2>
         <ContactUs />
       </Sections>
 
-      <Sections sectionName="hopr-values-section">
+      <Sections>
         <h2>OUR HOPR VALUES</h2>
         <OurHoprValues />
       </Sections>
 
-      <Sections
-        className="background-blue"
-        sectionName="hopr-manifesto-section"
-      >
-        <h2 className="p-color-white">OUR MANIFESTO</h2>
-        <ParagraphHopr p={hoprManifesto} className="p-color-white" />
+      <Sections className="background-blue hopr-manifesto-section">
+        <h2>OUR MANIFESTO</h2>
+        <ParagraphHopr p={hoprManifesto} />
       </Sections>
 
-      <Sections className="background-yellow" sectionName="partners-section">
+      <Sections className="background-yellow partners-section">
         <h2>CLIENTS</h2>
         <Partners />
       </Sections>
 
-      <Sections
-        className="background-yellow"
-        sectionName="board-of-association-section"
-      >
+      <Sections className="background-yellow board-of-association">
         <h2>BOARD OF DIRECTORS</h2>
         <BoardOfAssociation data={dataBoardAssociation} />
-
         <h2>BOARD COMMITTEE FOR LEGAL AFFAIRS</h2>
         <BoardOfAssociation data={dataCommittee} />
       </Sections>
 
-      <Sections sectionName="team-paragraph-section">
-        <div className="team-paragraph">
+      <Sections className="team-paragraph">
+        <div className="col-2">
           <Images
             src="/assets/images/team-paragraph/team-card-with-blue-stroke.png"
             width={330}
             height={330}
           />
+        </div>
+        <div className="col-2">
           <ParagraphHopr p={hoprTeam} />
         </div>
       </Sections>
 
-      <Sections
-        className="background-yellow"
-        sectionName="people-building-section"
-      >
+      <Sections className="background-yellow people-building">
         <h2>PEOPLE BUILDING THE HOPR NETWORK</h2>
         <PeopleBuildingHopr data={dataPeopleBuildingHopr} />
       </Sections>
 
-      <Sections sectionName="addreses-section">
-        <h2>ADDRESSES</h2>
-        <div className="team-paragraph">
-          <ParagraphHopr p={addres1} />
-          <ParagraphHopr p={addres2} />
+      <Sections className="addresses">
+        <h2>Addresses</h2>
+        <div className="content-column">
+          <div className="col-2">
+            <ParagraphHopr p={addres1} />
+          </div>
+          <div className="col-2">
+            <ParagraphHopr p={addres2} />
+          </div>
         </div>
       </Sections>
 
-      <Sections sectionName="footer-section" navbarORfooter={true}>
+      <Sections className="footer background-gradient-blue">
         <Footer />
       </Sections>
     </>
