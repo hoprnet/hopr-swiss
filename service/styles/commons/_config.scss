@@ -23,22 +23,26 @@ body {
   }
 
   h2 {
-    font-size: 2rem;
-    text-align: center;
     color: $hopr_grey;
+    font-size: 2rem;
     font-weight: 400;
+    margin-bottom: 40px;
+    margin-top: 0;
+    text-align: center;
   }
 
   h4 {
     color: $hopr_grey;
-    text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
+    margin-bottom: 40px;
+    margin-top: 0;
+    text-align: center;
   }
 
   h6 {
-    font-size: 1.125rem;
     color: $hopr_grey;
+    font-size: 1.125rem;
     font-weight: 200;
   }
 
@@ -52,11 +56,6 @@ body {
 
   .background-gradient-blue {
     background: linear-gradient($hopr_dark_blue, $hopr_bright_blue);
-  }
-
-  .padding-sections {
-    padding-top: 4%;
-    padding-bottom: 4%;
   }
 
   .p-color-white {

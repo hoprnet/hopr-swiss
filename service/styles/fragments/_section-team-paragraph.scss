@@ -1,8 +1,12 @@
 .team-paragraph {
-  display: flex;
-  justify-content: center;
+  .container {
+    display: flex;
+    flex-wrap: wrap;
 
-  p {
-    width: 50%;
+    .col-2 {
+      p {
+        margin: 0;
+      }
+    }
   }
 }

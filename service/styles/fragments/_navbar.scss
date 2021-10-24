@@ -1,4 +1,12 @@
-.logo-nav {
-  margin-left: 12.375rem;
-  margin-top: 0.313rem;
+.section.navbar {
+  background-color: $hopr_white;
+  left: 0;
+  position: absolute;
+  top: 0;
+  text-align: left;
+  z-index: 9;
+
+  .container {
+    padding: 10px 0;
+  }
 }
