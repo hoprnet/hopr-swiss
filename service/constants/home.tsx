@@ -50,32 +50,46 @@ export const OurHoprValue = [
 
 export const aPartners = [
   {
-    url: 'https://mll-legal.com/',
+    height: 40,
     image: '/assets/images/partners/02_froriep.png',
+    url: 'https://mll-legal.com/',
+    width: 75,
   },
   {
+    height: 40,
     url: 'https://www.sedimentum.com/',
     image: '/assets/images/partners/04_sedimentum.svg',
+    width: 73,
   },
   {
+    height: 40,
     url: 'https://www.swiss-medtech.ch/',
     image: '/assets/images/partners/05_swiss_medtech.svg',
+    width: 171,
   },
   {
+    height: 40,
     url: 'https://healthtech.ch/',
     image: '/assets/images/partners/07_health_tech_cluster.svg',
+    width: 91,
   },
   {
+    height: 40,
     url: 'https://swisshealthcarestartups.com/',
     image: '/assets/images/partners/08_swiss_healthcare_startups.svg',
+    width: 67,
   },
   {
+    height: 40,
     image: '/assets/images/partners/09_swissmade_software_logo.png',
     url: 'https://www.swissmadesoftware.org',
+    width: 321,
   },
   {
+    height: 40,
     image: '/assets/images/partners/Rockstar_Recruiting.png',
     url: 'https://www.rockstarjobs.ch/',
+    width: 120,
   },
 ];
 
