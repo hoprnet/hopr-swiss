@@ -6,6 +6,10 @@
   text-align: left;
   z-index: 9;
 
+  &.single-page {
+    position: relative;
+  }
+
   .container {
     padding: 10px 0;
   }
