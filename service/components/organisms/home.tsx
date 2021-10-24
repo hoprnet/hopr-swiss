@@ -86,7 +86,7 @@ const Home: NextPage<HomeProps> = ({}) => {
       </Sections>
 
       <Sections className="addresses">
-        <h2>Addresses</h2>
+        <h2>ADDRESSES</h2>
         <div className="content-column">
           <div className="col-2">
             <ParagraphHopr p={addres1} />
