@@ -13,7 +13,7 @@ export const Footer: NextPage<FooterProps> = ({}) => {
         <Images src="/assets/icons/hopr_icon.svg" width={32} height={32} />
       </div>
       <div className="second-line-footer">
-        <PElement>&copy;2021 HOPR Services AG, allrights reserved</PElement>
+        <PElement>&copy;2021 HOPR Services AG, all rights reserved</PElement>
         <ALink href="/disclaimer">
           <PElement>Disclaimer</PElement>
         </ALink>
