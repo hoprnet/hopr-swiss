@@ -116,7 +116,7 @@ export const dataBoardAssociation = [
     link: '',
     image: '/assets/images/team/quianchen.jpg',
     name: 'Qianchen "Q" Yu',
-    label: 'Director Local, Singapur',
+    label: 'Director, Singapur',
   },
 ];
 
