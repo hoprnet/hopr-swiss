@@ -168,21 +168,9 @@ export const dataPeopleBuildingHopr = [
   },
   {
     link: '#',
-    image: '/assets/images/team/peter_braden.png',
-    name: 'Peter Braden',
-    label: 'Software Engineer',
-  },
-  {
-    link: '#',
     image: '/assets/images/team/HOPRNET_Andrius.jpg',
     name: 'Andrius Stepaitis',
     label: 'Community Manager',
-  },
-  {
-    link: '#',
-    image: '/assets/images/team/Gregory_Babincev.png',
-    name: 'Gregory Babintcev',
-    label: 'Chinese Community Manager',
   },
   {
     link: '#',
@@ -201,12 +189,6 @@ export const dataPeopleBuildingHopr = [
     image: '/assets/images/team/Tino_Breddin_gelb.png',
     name: 'Tino Breddin',
     label: 'DevOps Engineer',
-  },
-  {
-    link: '#',
-    image: '/assets/images/team/HOPRNET_Andrey.jpg',
-    name: 'Andrey Kiryushkin',
-    label: 'Protocol Engineer',
   },
   {
     link: '#',
