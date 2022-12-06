@@ -270,6 +270,12 @@ export const addres2 = (
   <>
     Asia:
     <br />
-    Singapore coming soon
+    HOPR Tech Pte. Ltd.
+    <br />
+    68 Circular Road, #02-01
+    <br />
+    049422 Singapore
+    <br />
+    Singapore
   </>
 );

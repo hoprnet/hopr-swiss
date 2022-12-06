@@ -80,11 +80,6 @@ const Home: NextPage<HomeProps> = ({}) => {
         </div>
       </Sections>
 
-      <Sections className="background-yellow people-building">
-        <h2>PEOPLE BUILDING THE HOPR NETWORK</h2>
-        <PeopleBuildingHopr data={dataPeopleBuildingHopr} />
-      </Sections>
-
       <Sections className="addresses">
         <h2>ADDRESSES</h2>
         <div className="content-column">
