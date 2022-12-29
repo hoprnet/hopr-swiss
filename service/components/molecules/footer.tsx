@@ -6,14 +6,15 @@ import { PElement } from '../atoms/p';
 
 interface FooterProps {}
 
-export const Footer: NextPage<FooterProps> = ({}) => {
+export const Footer: NextPage<FooterProps> = ({ }) => {
+  const currentYear = new Date().getFullYear()
   return (
     <footer>
       <div>
         <Images src="/assets/icons/hopr_icon.svg" width={32} height={32} />
       </div>
       <div className="second-line-footer">
-        <PElement>&copy;2021 HOPR Services AG, all rights reserved</PElement>
+        <PElement>&copy;{currentYear} HOPR Services AG, all rights reserved</PElement>
         <ALink href="/disclaimer">
           <PElement>Disclaimer</PElement>
         </ALink>

@@ -212,7 +212,7 @@ export const dataPeopleBuildingHopr = [
 
 export const paragraphHopr = (
   <>
-    At HOPR, we take cyber security seriously. HOPR is an IT consultancy with its own in-house development team. If you need to secure your company’s data, or the data you receive from your clients, HOPR has you covered.<br />
+    At HOPR, we take cyber security seriously. HOPR is an IT consultancy with its own in-house development team. If you need to secure your company’s data, or the data you receive from your clients, HOPR has you covered.<br /><br />
     <b>What makes us different?</b><br />
     There are many data storage solutions, either on-site or in the cloud. But the real problems arise when data is transferred. HOPR ensures that data can be sent and received safely, easily and with no risk of data leaks. We consult with companies and institutions and provide solutions for all their data problems.
   </>
@@ -254,8 +254,6 @@ export const hoprTeam = (
 
 export const addres1 = (
   <>
-    Europe:
-    <br />
     HOPR Services AG
     <br />
     Bleicherweg 33
@@ -268,8 +266,6 @@ export const addres1 = (
 
 export const addres2 = (
   <>
-    Asia:
-    <br />
     HOPR Tech Pte. Ltd.
     <br />
     68 Circular Road, #02-01
