@@ -254,6 +254,8 @@ export const hoprTeam = (
 
 export const addres1 = (
   <>
+    Europe:
+    <br />
     HOPR Services AG
     <br />
     Bleicherweg 33
@@ -266,6 +268,8 @@ export const addres1 = (
 
 export const addres2 = (
   <>
+    Asia:
+    <br />
     HOPR Tech Pte. Ltd.
     <br />
     68 Circular Road, #02-01
